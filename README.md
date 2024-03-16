@@ -104,3 +104,5 @@ fun PagedEffect(
     onVisibleItemsChanged: suspend (Int) -> Unit
 )
 ```
+
+You can also check  [example of implementation](https://github.com/viacheslav-chugunov/PagedEffect/blob/main/app/src/main/java/viacheslav/chugunov/pagedeffect/ExampleComposable.kt).
