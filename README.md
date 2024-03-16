@@ -2,7 +2,7 @@
 
 ## Description
 
-A library that helps implement pagination in Compose for LazyList, LazyGrid and LazyStaggeredGrid.
+An android library that helps implement pagination in Compose for LazyList, LazyGrid and LazyStaggeredGrid.
 
 <p align="center">
   <img src="https://github.com/viacheslav-chugunov/PagedEffect/blob/main/assets/paging_example.gif" height=500 />
